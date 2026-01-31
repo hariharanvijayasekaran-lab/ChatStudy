@@ -110,7 +110,7 @@ client.close()
 ```
 
 ## Output:
-<img width="1458" height="225" alt="ChatStudy" src="https://github.com/user-attachments/assets/fbd16716-2705-4d37-be6e-bfd1ad9ca9e4" />
+<img width="1676" height="388" alt="479463337-63a197e6-b415-44fb-b349-4d83621d0824" src="https://github.com/user-attachments/assets/da6b9867-1d8a-4b85-a85b-eddc251ac706" />
 
 
 
